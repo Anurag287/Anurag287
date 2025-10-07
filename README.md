@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Anurag S Nair  
 
-<!--
-**Anurag287/Anurag287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science** | 💻 **Cybersecurity & AI Enthusiast**  
+🌍 Based in **India** | 🔐 Exploring the intersection of **AI and Security**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m an adaptable and curious learner who enjoys diving deep into different areas of technology.  
+Currently, I’m focusing on **Cybersecurity**, **Web Development**, and **AI-based systems**.  
+I love working on projects that combine **data-driven intelligence** with **real-world applications** — from **AI-powered interview simulators** to **smart energy optimization systems**.  
+
+---
+
+## 🧠 Tech Stack  
+
+**Languages:**  
+🟩 Python | 🟨 JavaScript | 🟦 C++  
+
+**Frameworks & Tools:**  
+⚙️ Node.js | Express.js | React | Prisma ORM | Flask  
+
+**Database:**  
+🗄️ PostgreSQL | MySQL | MongoDB  
+
+**Core Interests:**  
+🔒 Cybersecurity | 🤖 Machine Learning | 🌐 Web Development
+
+---
+
+## 🧩 Featured Projects  
+
+### 🧠 [Quizzer](https://github.com/Anurag287/Quizzer)  
+A complete quiz management system with **separate admin and user dashboards**.  
+Admins can create and manage quizzes, while users can attempt and view results.  
+> Tech: Node.js, Express, Prisma, React, JWT  
+
+---
+
+### 💬 [Cyberverse](https://github.com/Anurag287/cyberverse-mini_project)  
+An intelligent mock interview platform that analyzes **voice, emotion, and sentiment** using AI models.  
+> Tech: Flask, DeepFace, VADER Sentiment, Gemini API, React  
+
+---
+
+
+## 📊 GitHub Stats  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragsnair&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsnair&layout=compact&theme=tokyonight)  
+
+---
+
+## 🏆 Certifications & Achievements  
+- 🧩 **IEEE Internship Project:** Autoencoder-based anomaly detection system using ML  
+- 🛡️ **Cybersecurity Training:** Network security & ethical hacking foundations   
+---
+
+## 🌱 Currently Exploring  
+- Threat detection using **AI/ML** models  
+- Secure API design and authentication mechanisms  
+
+---
+
+## 📫 Connect With Me  
+📧 **Email:** [anuragsnair28@gmail.com](mailto:anuragsnair28@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/anurag-s-nair](https://www.linkedin.com/in/anurag-s-nair/)  
+
+---
+
+⭐️ *“Keep learning. Keep building. Keep growing.”*  
