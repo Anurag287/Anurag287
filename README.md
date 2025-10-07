@@ -46,8 +46,8 @@ An intelligent mock interview platform that analyzes **voice, emotion, and senti
 
 ## 📊 GitHub Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragsnair&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsnair&layout=compact&theme=tokyonight)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag287&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag287&layout=compact&theme=tokyonight)  
 
 ---
 
