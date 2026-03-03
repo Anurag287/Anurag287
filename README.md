@@ -8,14 +8,14 @@
 ## 🚀 About Me  
 I’m an adaptable and curious learner who enjoys diving deep into different areas of technology.  
 Currently, I’m focusing on **Cybersecurity**, **Web Development**, and **AI-based systems**.  
-I love working on projects that combine **data-driven intelligence** with **real-world applications** — from **AI-powered interview simulators** to **smart energy optimization systems**.  
+I love working on projects that combine **data-driven intelligence** with **real-world applications** — from **AI-powered interview simulators** to **quiz management systems**.  
 
 ---
 
 ## 🧠 Tech Stack  
 
 **Languages:**  
-🟩 Python | 🟨 JavaScript | 🟦 C++  
+🟩 Python | 🟨 JavaScript | 🟦 C
 
 **Frameworks & Tools:**  
 ⚙️ Node.js | Express.js | React | Prisma ORM | Flask  
@@ -53,7 +53,7 @@ An intelligent mock interview platform that analyzes **voice, emotion, and senti
 
 ## 🏆 Certifications & Achievements  
 - 🧩 **IEEE Internship Project:** Autoencoder-based anomaly detection system using ML  
-- 🛡️ **Cybersecurity Training:** Network security & ethical hacking foundations   
+- 🛡️ **Google Cybersecurity Professional Certificate** 
 ---
 
 ## 🌱 Currently Exploring  
