@@ -43,14 +43,6 @@ An intelligent mock interview platform that analyzes **voice, emotion, and senti
 
 ---
 
-
-## 📊 GitHub Stats  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag287&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag287&layout=compact&theme=tokyonight)  
-
----
-
 ## 🏆 Certifications & Achievements  
 - 🧩 **IEEE Internship Project:** Autoencoder-based anomaly detection system using ML  
 - 🛡️ **Google Cybersecurity Professional Certificate** 
